@@ -1,3 +1,3 @@
 # Algorithms-and-Data-Structures
 
-## Various algortihms implementation which where presented and used in various problems thourghout the semester. Repo contains mainly algorithms implementations using Cormen and other online resources. Course contained algorithmic tasks which were using various algorithms implemented there. 
+## Various algortihms implementation which where presented and used in various problems thoughout the summer 2022 semester. Repo contains mainly algorithms implementations using Cormen and other online resources. Course contained algorithmic tasks and other problems which were to be solved using various algorithms implemented there. 
